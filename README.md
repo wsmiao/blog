@@ -1,8 +1,8 @@
 # blog
 
 ### 外部包
-* [gonic](github.com/gin-gonic/gin)
-* [sqlx](github.com/jmoiron/sqlx)
+* [gonic](https://github.com/gin-gonic/gin)
+* [sqlx](https://github.com/jmoiron/sqlx)
 
 ### 运行
 ```
